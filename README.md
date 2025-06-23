@@ -12,6 +12,6 @@
 <li>Essa API serve para gerenciar as tarefas que voce tem de fazer no dia a dia</li>
 <li>voce pode criar tarefas, atualizalas e excuilas alem de organizalas utilizando essa API.</li>
 </ol>
-<p>Para mais detalhes, consulte a documentação completa da API.</p>
+<p>brigadoo.</p>
 </body>
 </html>
