@@ -6,13 +6,11 @@
 </head>
 <body>
 <h1>API ProjetoAPI</h1>
-<p>OIE essa é minha API.</p>
+<p>Oiie essa é minha API de gereneciamento de tarefas.</p>
 <h2>Como usar a API</h2>
 <ol>
-<li>Só fazer uma requisição HTTP usando GET, POST, PUT, DELETE.</li>
-<li>Inclua os cabeçalhos necessários, como Content-Type e autenticação, se necessário.</li>
-<li>Envie os dados no corpo da requisição, caso seja uma operação que envolva envio de informações.</li>
-<li>Receba a resposta em formato JSON com os resultados da operação.</li>
+<li>Essa API serve para gerenciar as tarefas que voce tem de fazer no dia a dia</li>
+<li>voce pode criar tarefas, atualizalas e excuilas alem de organizalas utilizando essa API.</li>
 </ol>
 <p>Para mais detalhes, consulte a documentação completa da API.</p>
 </body>
