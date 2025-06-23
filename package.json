@@ -1,0 +1,12 @@
+{
+  "name": "ProjetoAPI",
+  "version": "1.0.0",
+  "description": "API simples de gerenciamento de tarefas (to-do list)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
