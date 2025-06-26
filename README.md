@@ -84,14 +84,8 @@
 <pre><code>curl -X DELETE http://localhost:3000/tarefas/1
 </code></pre>
 
-<h2>Observações</h2>
-<ul>
-<li>Certifique-se de que a sua API está rodando na porta 3000.</li>
-<li>Para adicionar funcionalidades extras, considere integrar banco de dados ou validar entradas.</li>
-</ul>
-
 <h2>Contato</h2>
-<p>Para dúvidas ou sugestões: <a href="mailto:seuemail@dominio.com">seuemail@dominio.com</a></p>
+<p>Para dúvidas ou sugestões: <a href="Lucas.matos11@aluno.ifce.edu.br">Lucas.matos11@aluno.ifce.edu.br.</a></p>
 
 </body>
 </html>
